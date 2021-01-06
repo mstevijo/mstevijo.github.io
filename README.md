@@ -5,4 +5,5 @@ For this project we are to create a react portfolio. I did use a template and ha
 Deployed Link:
 https://stevijoportfolio.herokuapp.com/
 
+![screenshot](https://user-images.githubusercontent.com/65369173/103719927-0481fa00-4f7f-11eb-964e-4a17bf27db11.png)
 
