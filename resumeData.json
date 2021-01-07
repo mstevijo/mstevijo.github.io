@@ -1,0 +1,133 @@
+{
+  "main": {
+    "name": "Stevi Jo Malinowski",
+    "occupation": "Front-End Web Developer",
+    "description": "I have always had a creative side and a need to communicate with people. I find that being in the marketing and web development field really encompasses both of these strengths.",
+    "image": "profilepic.jpg",
+    "bio": "My name is Stevi, I am a front-end web developer with an extensive background in SEO, online advertising including Google Adwords, and social media marketing all platforms. Recently earned a certificate in full-stack development from the University of Oregon with newly developed skills in HTML, CSS, Javascript, React.js, Node, Mongo, MySQL, and responsive web design. Known for my passion for creativity during the development of web applications and strong problem-solving skills and work ethic. I have worked on 3 dev teams, 2 of which we created full-stack web applications. I am excited and determined to continue to develop my skills as a web developer in the fast-paced industry.",
+    "contactmessage": "Please reach out to me for an services or oppurtunities.",
+    "email": "mstevijo@yahoo.com",
+    "phone": "503-810-2701",
+    "address": {
+      "street": "SE",
+      "city": "Portland",
+      "state": "Oregon",
+      "zip": "97206"
+    },
+    "website": "https://mstevijo.github.io/responsivePortfolio/",
+    "resumedownload": "https://docs.google.com/document/d/1cFwHta8IwJLcrRkHmsnlMOB4tXDlray5ANdBCZlD3vw/edit?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/SteviJoMalinowski",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/stevi-jo-malinowski-29705248/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/malinowskicentral/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/mstevijo",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I have a history with Wordpress, Google Adwords, Social Media Marketing, and SEO practices. For the past year I have been learning the skills to be a full-stack web developer. These skills include HTML, CSS, Javascript REACT.js, Node, MongoDB, MySql, Express and more. ",
+    "education": [
+      {
+        "school": "University of Oregon",
+        "degree": "Certificate in Full Stack Web Development",
+        "graduated": "January 2021",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "JMI Limousine",
+        "title": "Operations Manager",
+        "years": "July 2015 - Present",
+        "description": "Manage all marketing and day to day operations."
+      },
+      {
+        "company": "Total Market Exposure",
+        "title": "Social Media Manager",
+        "years": "April 2011- June 2015",
+        "description": "Managed numerous Social Media, SEO and Adwords accounts."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "30%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Node",
+        "level": "55%"
+      },
+      {
+        "name": "HTML5",
+        "level": "95%"
+      },
+      {
+        "name": "MongoDB & MySQL",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Eat-Da-Burger",
+        "category": "Web app using handlebars techniques.",
+        "image": "Burger.png",
+        "url": "https://afternoon-river-96427.herokuapp.com/"
+      },
+      {
+        "title": "Jeopardize",
+        "category": "Full-stack web application created with a dev team.",
+        "image": "Jeopardize.png",
+        "url": "https://thawing-lake-66085.herokuapp.com/login"
+      },
+      {
+        "title": "Employee Tracker",
+        "category": "MySql project demonstration a content Management System interface.",
+        "image": "employee-tracker.png",
+        "url": "https://github.com/mstevijo/employee_tracker"
+      },
+      {
+        "title": "Note Taker",
+        "category": "Web app for user to write and save notes using express backend, JSON and Heroku.",
+        "image": "Note-taker.png",
+        "url": "https://protected-wildwood-90454.herokuapp.com/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "I love working with Stevi-Jo because she always gets the job done right. She works diligently to ensure accuracy and effectiveness on every project..",
+        "user": "Alex Lockwood"
+      },
+      {
+        "text": "I do recommend Stevi-Jo...she is a real people person and has a high level of integrity! Social media is her specialty with alot of additional knowledge of managing SEO and SEM campaigns.",
+        "user": "Ralph Shafer, Ultimate Comfort"
+      }
+    ]
+  }
+}
